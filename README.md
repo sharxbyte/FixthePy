@@ -1,6 +1,7 @@
-======================================
-FixThePy - Python Code Correction Tool
-======================================
+FixThePy
+=================
+Python Code Correction Tool
+=================
 
 FixThePy is a Python code correction tool that utilizes the OpenAI API to help you automatically correct errors in your Python scripts. This easy-to-use application provides a graphical user interface (GUI) to guide you through the process.
 
