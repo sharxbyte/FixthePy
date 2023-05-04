@@ -26,6 +26,9 @@ Requirements
 Notes
 -----
 
+The program should be very easy to adapt to other languages and filetypes. it's a pretty simple program that I made with the help of GPT-4.
+
+
 - This application requires an active internet connection to communicate with the OpenAI API.
 - Please ensure that your API key is valid and has the necessary permissions to access the OpenAI API.
 - The correction process may take some time, depending on the size of the input file and the complexity of the code.
